@@ -40,6 +40,13 @@ Follow these steps to set up and run the project locally.
     ```bash
     pip install -r requirements.txt
 
-4. ** Run the app.py
+4. ** Run the server:
     ```bash
     python app.py
+
+
+5. ** Access the API:
+    Open your browser or use a tool like Postman to access:
+
+    ```bash
+    http://localhost:5000/api
