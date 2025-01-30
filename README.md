@@ -40,6 +40,6 @@ Follow these steps to set up and run the project locally.
     ```bash
     pip install -r requirements.txt
 
-
+4. ** Run the app.py
     ```bash
     python app.py
