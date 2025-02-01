@@ -10,8 +10,8 @@ CORS(app)
 def get_data():
     return {
         "email": "fikayoogundijo@gmail.com",
-        "datetime": datetime.utcnow().isoformat(),
-        "github_repo_url": "https://github.com/Fikayomi31/HNG12_TASK_0",
+        "current_datetime": datetime.utcnow().isoformat(),
+        "github_url": "https://github.com/Fikayomi31/HNG12_TASK_0",
     }
 
 # Define the API endpoint
